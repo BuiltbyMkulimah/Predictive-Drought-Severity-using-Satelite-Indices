@@ -1,0 +1,1 @@
+# Predictive-Drought-Severity-using-Satelite-Indices
